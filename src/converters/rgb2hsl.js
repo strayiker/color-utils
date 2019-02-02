@@ -27,5 +27,5 @@ export default function(rgb) {
   s *= 100;
   l *= 100;
 
-  return [Math.round(h), Math.round(s), Math.round(l)];
+  return [h, s, l];
 }
