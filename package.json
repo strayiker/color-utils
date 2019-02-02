@@ -1,6 +1,6 @@
 {
   "name": "@sadbox/color-utils",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A set of utility functions for working with colors",
   "main": "dist/color-utils.js",
   "author": "Kirill Mesnyankin <sadbox.games@gmail.com>",
